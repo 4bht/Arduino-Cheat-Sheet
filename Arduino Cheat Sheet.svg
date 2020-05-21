@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.36"
      inkscape:cx="2512.8015"
-     inkscape:cy="1136.3775"
+     inkscape:cy="1247.4886"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -341,13 +341,13 @@
       <image
          sodipodi:absref="/home/ra/comp/dev/cloud/github/4bht--Arduino-Cheat-Sheet/esp32_pinmap.png"
          xlink:href="esp32_pinmap.png"
-         width="1697.8153"
-         height="819.35828"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image5082"
+         y="2303.3931"
          x="1948.0134"
-         y="2303.3931" />
+         id="image5082"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="819.35828"
+         width="1697.8153" />
       <a
          transform="translate(-1729.5843,18.946899)"
          xlink:href="https://github.com/liffiton/Arduino-Cheat-Sheet/"
@@ -1872,16 +1872,16 @@
          x="1624.6289"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666667px;line-height:100%;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';text-align:end;text-anchor:end;fill:#505050;fill-opacity:1;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:100%;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#505050;fill-opacity:1"
            y="-2279.7258"
            x="1624.6289"
            id="tspan7757"
            sodipodi:role="line">Primary source: Arduino Language Reference</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.66666412px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';text-align:end;text-anchor:end;fill:#0f7491;fill-opacity:1"
            id="tspan7763"
-           y="-2199.9146"
+           y="-2199.8325"
            x="1624.6289"
-           sodipodi:role="line">https://arduino.cc/en/Reference/</tspan></text>
+           sodipodi:role="line">https://arduino.cc/reference/en</tspan></text>
     </a>
     <text
        xml:space="preserve"
@@ -3360,37 +3360,37 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.71277905"
-       x="1998.3734"
+       x="1982.3734"
        y="3304.3049"
        id="text2071-7"><tspan
          sodipodi:role="line"
-         x="1998.3734"
+         x="1982.3734"
          y="3304.3049"
          style="font-size:40px;line-height:1.24000001"
          id="tspan4697-4"><tspan
-           x="1998.3734"
+           x="1982.3734"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:124.00000095%;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;fill:#008000;fill-opacity:1;stroke-width:4.71277905"
-           id="tspan4666-9">* Assignment of pins might be incomplete</tspan></tspan><tspan
+           id="tspan4666-9">* Assignment of pins might be incompletely described</tspan></tspan><tspan
          sodipodi:role="line"
-         x="1998.3734"
+         x="1982.3734"
          y="3353.905"
          style="font-size:40px;line-height:1.24000001"
          id="tspan989"><tspan
-           x="1998.3734"
+           x="1982.3734"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:124.00000095%;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;fill:#008000;fill-opacity:1;stroke-width:4.71277905"
-           id="tspan991">* specific functions for ESP32 (Touch, DAC, ...) are missing</tspan></tspan><tspan
+           id="tspan991">* documentation of specific functions for ESP32 (Wifi, Touch, DAC, ...) is lacking</tspan></tspan><tspan
          sodipodi:role="line"
-         x="1998.3734"
+         x="1982.3734"
          y="3369.7449"
          style="font-size:40px;line-height:1.24000001"
          id="tspan4702-7" /><tspan
          sodipodi:role="line"
-         x="1998.3734"
+         x="1982.3734"
          y="3369.7449"
          style="font-size:40px;line-height:1.24000001"
          id="tspan4707-1" /><tspan
          sodipodi:role="line"
-         x="1998.3734"
+         x="1982.3734"
          y="3369.7449"
          id="tspan2069-2"
          style="font-size:40px;line-height:1.24000001" /></text>
@@ -3404,6 +3404,6 @@
          id="tspan5197-2-3"
          x="2798.2009"
          y="3258.074"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:85.33333588px;line-height:124.00000095%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';text-align:center;text-anchor:middle">NOTE: incomplete adaptations for ESP32</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:85.33333588px;line-height:124.00000095%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';text-align:center;text-anchor:middle">NOTE: incomplete adaptation for ESP32</tspan></text>
   </g>
 </svg>
